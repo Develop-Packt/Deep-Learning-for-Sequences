@@ -1,2 +1,5 @@
-# Deep-Learning-for-Sequences
-This module explores how important Recurrent Neural Networks (RNNs) are for sequence modeling. It particularly focuses on deep learning approaches for sequences, particularly plain RNNs and 1D convolutions Foundations more advanced RNN-based models are laid in this module.
+# Deep Learning for Sequences
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Deep-Learning-for-Sequences.svg)](https://github.com/Develop-Packt/Deep-Learning-for-Sequences/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Deep-Learning-for-Sequences.svg)](https://github.com/Develop-Packt/Deep-Learning-for-Sequences/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Deep-Learning-for-Sequences.svg)](https://github.com/Develop-Packt/Deep-Learning-for-Sequences/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Deep-Learning-for-Sequences/pulls)
